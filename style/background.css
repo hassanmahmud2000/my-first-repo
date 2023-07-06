@@ -1,7 +1,17 @@
 p{
-    background-color: coral;
+    color: aliceblue;
+    background-color: rgb(204, 54, 0);
     font-family: fantasy;
     font-style: italic;
-    font-size: small;
+    font-size: large;
     backface-visibility: inherit;
+    padding: 10px;
+    margin: 10px;
+    border-color: aqua;
+}
+div{
+    margin-right: 900px;
+    background-color: aquamarine;
+    padding: 10px 50px 50px 10px;
+    
 }
