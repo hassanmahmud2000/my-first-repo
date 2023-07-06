@@ -1,0 +1,7 @@
+p{
+    background-color: coral;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: small;
+    backface-visibility: inherit;
+}
